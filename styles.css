@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 35px;
 }
 
 .established {
@@ -38,6 +38,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
 hr {
   height: 2px;
   background-color: brown;
@@ -57,7 +58,7 @@ h2 {
   display: inline-block;
   margin-top: 5px;
   margin-bottom: 5px;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .flavor,
@@ -68,7 +69,7 @@ h2 {
 
 .price {
   text-align: right;
-  width: 25%;
+  width: 24%;
 }
 
 /* FOOTER */
